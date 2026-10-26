@@ -10,7 +10,6 @@ ehthumbs.db
 Thumbs.db
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -62,8 +61,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -92,7 +89,6 @@ tmp/
 temp/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 *.suo
@@ -142,3 +138,4 @@ dist/
 test-results/
 playwright-report/
 test-results.xml
+config.bat
